@@ -1,0 +1,6 @@
+-- CreateTable
+CREATE TABLE "Test" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "dateField" DATETIME NOT NULL,
+    "updatedAt" DATETIME NOT NULL
+);
